@@ -1,0 +1,19 @@
+{
+  "name": "backendchai",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "code"
+  ],
+  "author": "Anshul",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0"
+  }
+}
